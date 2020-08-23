@@ -41,7 +41,7 @@ body{
 #image1{
     clear: both;
     align-content: left;
-    
+    border-radius:50%;
     width: 450px;
   filter:grayscale(30%);
   margin-top: 80px;
